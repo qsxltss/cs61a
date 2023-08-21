@@ -1,0 +1,6 @@
+'cadr-caddr-correct', (0, 66)
+'sign-correct', (512, 66)
+'unique-correct', (1024, 66)
+'accumulate-tail-correct', (1536, 66)
+'replicate-correct', (2048, 66)
+'list-comp-correct', (2560, 66)
